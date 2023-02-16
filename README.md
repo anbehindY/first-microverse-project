@@ -60,9 +60,9 @@ In order to run this project you need:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Yan Min Thwin**
 
@@ -106,7 +106,7 @@ If you like this project, please give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse
+I would like to thank Microverse and every single Youtube channel.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
