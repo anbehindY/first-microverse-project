@@ -12,10 +12,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -57,9 +53,9 @@ This is for junior developers who is trying to get familiar with git and git hub
 
 In order to run this project you need:
 
-  Git
-  Node.js
-  Visual studio code (or other code editors)
+ - Git
+ - Node.js
+ - Visual studio code (or other code editors)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,9 +81,9 @@ In order to run this project you need:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **Navigation Bar**
-- [ ] **Images**
-- [ ] **Responsiveness**
+- **Navigation Bar**
+- **Images**
+- **Responsiveness**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
