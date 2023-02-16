@@ -26,11 +26,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [first-microverse-project] <a name="about-project"></a>
+# 📖 first-microverse-project <a name="about-project"></a>
 
 > The very first project of the 1st module of microverse full stack web development program
 
-**[first-microverse-project]** is a simple HTML project
+The **first-microverse-project** is a simple HTML project
 
 ## 🛠 Built With <a name="built-with">HTML</a>
 
@@ -41,9 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[To get in touch with Git Hub]**
-- **[To be more familiar with Git Bash]**
-- **[Understand how HTML and CSS work together]**
+- **To get in touch with Git Hub**
+- **To be more familiar with Git Bash**
+- **Understand how HTML and CSS work together**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -83,9 +83,9 @@ In order to run this project you need:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Navigation Bar]**
-- [ ] **[Images]**
-- [ ] **[Responsiveness]**
+- [ ] **Navigation Bar**
+- [ ] **Images**
+- [ ] **Responsiveness**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,13 +126,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[What is HTML]**
+- **What is HTML**
 
-  - [HTML is a hyper text markup language that is used to build raw structure of a web page]
+  - HTML is a hyper text markup language that is used to build raw structure of a web page.
 
-- **[What is CSS]**
+- **What is CSS**
 
-  - [CSS is a cascading style sheets that links to the HTML and make the website visually active.]
+  - CSS is a cascading style sheets that links to the HTML and make the website visually active.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
