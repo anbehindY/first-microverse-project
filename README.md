@@ -1,9 +1,6 @@
 # first-microverse-project
 <a name="readme-top"></a>
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -140,15 +137,9 @@ Example:
 
 👤 **Yan Min Thwin**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Alfie Yang**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@anbehindY](https://github.com/anbehindY)
+- Twitter: [@yanminthwin](https://twitter.com/yanminthwin)
+- LinkedIn: [Yan Min Thwin](https://www.linkedin.com/in/yan-min-thwin-192862215)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,9 +149,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Navigation Bar]**
+- [ ] **[Images]**
+- [ ] **[Responsiveness]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,13 +191,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What is HTML]**
 
-  - [Answer_1]
+  - [HTML is a hyper text markup language that is used to build raw structure of a web page]
 
-- **[Question_2]**
+- **[What is CSS]**
 
-  - [Answer_2]
+  - [CSS is a cascading style sheets that links to the HTML and make the website visually active.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
