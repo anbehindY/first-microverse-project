@@ -17,16 +17,16 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 first-microverse-project <a name="about-project"></a>
 
-> The very first project of the 1st module of microverse full stack web development program
+>The very first project of the 1st module of microverse full stack web development program
 
-The **first-microverse-project** is a simple HTML project
+>The **first-microverse-project** is a simple HTML project
 
 ## 🛠 Built With <a name="built-with">HTML</a>
 
@@ -64,8 +64,6 @@ In order to run this project you need:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Yan Min Thwin**
 
 - GitHub: [@anbehindY](https://github.com/anbehindY)
@@ -78,8 +76,6 @@ In order to run this project you need:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - **Navigation Bar**
 - **Images**
@@ -115,9 +111,9 @@ I would like to thank microverse
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- FAQ (optional) -->
+<!-- FAQ  -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ  <a name="faq"></a>
 
 - **What is HTML**
 
