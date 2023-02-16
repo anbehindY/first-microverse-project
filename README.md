@@ -10,7 +10,6 @@
     - [Tech stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
