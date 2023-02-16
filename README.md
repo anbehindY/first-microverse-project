@@ -7,7 +7,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [HTML & CSS](#tech-stack)
+    - [Tech stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -30,7 +30,8 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>HTML & CSS
+### Tech Stack <a name="tech-stack"></a><br>
+-HTML & CSS
 
 
 <!-- Features -->
