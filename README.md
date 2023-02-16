@@ -28,9 +28,9 @@
 
 >The **first-microverse-project** is a simple HTML project
 
-## 🛠 Built With <a name="built-with">HTML</a>
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack">CSS</a>
+### Tech Stack <a name="tech-stack"></a>HTML & CSS
 
 
 <!-- Features -->
